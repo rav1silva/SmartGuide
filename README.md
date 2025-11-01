@@ -43,10 +43,10 @@ Este protótipo é a base para um sistema muito mais completo, que incluirá:
 
 ## 5. Estrutura do Repositório
 
-- `/smartGuide/smartGuide.ino`: O código-fonte principal do firmware para o ESP32.
-- `README.md`: Esta página (visão geral do projeto).
-- `HARDWARE.md`: Lista de materiais (BOM), diagrama elétrico e guia de montagem.
-- `SOFTWARE.md`: Instruções detalhadas sobre o firmware, configuração de rede e tópicos MQTT.
+- [`/smartGuide/smartGuide.ino`](./smartGuide/smartGuide.ino): O código-fonte principal do firmware para o ESP32.
+- [`README.md`](./README.md): Esta página (visão geral do projeto).
+- [`HARDWARE.md`](./HARDWARE.md): Lista de materiais (BOM), diagrama elétrico e guia de montagem.
+- [`SOFTWARE.md`](./SOFTWARE.md): Instruções detalhadas sobre o firmware, configuração de rede e tópicos MQTT.
 
 ## 6. Como Contribuir
 
