@@ -29,10 +29,8 @@ const int IN4 = 21;
 const char* BROKER_MQTT = "test.mosquitto.org";
 const int   BROKER_PORT = 1883;
 
-// const char* SSID = "2.4GHz NET VIRTUA 400";
-// const char* PASSWORD = "3523322300";
-const char* SSID = "Ravi's Galaxy S21 FE 5G";
-const char* PASSWORD = "vovozona2";
+const char* SSID = "";
+const char* PASSWORD = "";
 
 WiFiClient espClient;
 PubSubClient MQTT(espClient);
