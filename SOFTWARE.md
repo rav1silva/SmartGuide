@@ -4,7 +4,7 @@ O coração do **SmartGuide** é o firmware embarcado no **ESP32**, escrito em *
 
 ## 1. Visão Geral do Firmware
 
-O código em `smartGuide/smartGuide.ino` é responsável por:
+O código em [`/smartGuide/smartGuide.ino`](./smartGuide/smartGuide.ino) é responsável por:
 
 - Conectar o **ESP32** à rede **Wi-Fi**.
 - Conectar a um **broker MQTT público** para receber comandos e enviar dados.
