@@ -19,7 +19,7 @@ Antes de carregar o código, você **DEVE** editar as seguintes variáveis no in
 
 ### **Configuração Wi-Fi**
 
-Altere as variáveis `SSID` e `PASSWORD` para corresponder às credenciais da sua rede **Wi-Fi de 2.4GHz**.
+Altere as variáveis `SSID` e `PASSWORD` para corresponder às credenciais da sua rede **Wi-Fi**.
 
 ```cpp
 // --- CONFIGURE SEU WI-FI AQUI ---
