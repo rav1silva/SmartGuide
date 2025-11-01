@@ -53,3 +53,16 @@ Este protótipo é a base para um sistema muito mais completo, que incluirá:
 Ficamos felizes com o seu interesse! Sinta-se à vontade para abrir uma **Issue** para relatar bugs ou sugerir melhorias, ou um **Pull Request** com suas contribuições.
 
 ---
+
+## 7. Integrantes do Projeto
+
+O **SmartGuide** foi desenvolvido por estudantes da **Pontifícia Universidade Católica de Minas Gerais (PUC Minas)**, como parte de um projeto voltado à inovação e acessibilidade tecnológica:
+
+- **Daniel Lucas Soares Madureira**  
+- **Lucas Vinicius Silva Almeida**  
+- **Ramses Rezende Braga**
+- **Ravi Dornelas e Silva**  
+
+---
+
+**PUC Minas – Engenharia de Computação**  
